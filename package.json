@@ -1,0 +1,17 @@
+{
+  "name": "stream_file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "csv-string": "^4.0.1",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
